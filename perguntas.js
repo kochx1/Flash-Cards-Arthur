@@ -17,50 +17,50 @@ criaCartao(
 ) 
 
 criaCartao(
-    'categoria', 
-    'pergunta',
-    'resposta'
+    'conhecimentos históricos', 
+    'Em que ano o homem pisou na Lua pela primeira vez?',
+    '1969'
 ) 
 
 criaCartao(
-    'categoria', 
-    'pergunta',
-    'resposta'
+    'Quimíca', 
+    'Qual é o elemento químico representado pela sigla "O"?',
+    'Oxigênio'
 ) 
 
 criaCartao(
-    'categoria', 
-    'pergunta',
-    'resposta'
+    'Geografia', 
+    'Quantos estados tem o Brasil?',
+    '26 Estados e mais um distrito federal'
 ) 
 
 criaCartao(
-    'categoria', 
-    'pergunta',
-    'resposta'
+    'geografia', 
+    'Qual é a capital do Canadá?',
+    'Ottawa'
 ) 
 
 criaCartao(
-    'categoria', 
-    'pergunta',
-    'resposta'
+    'Livros', 
+    'Quem escreveu a peça "Romeu e Julieta"?',
+    'William Shakespeare'
 ) 
 
 criaCartao(
-    'categoria', 
-    'pergunta',
-    'resposta'
+    'Geografia', 
+    'Qual é o rio mais extenso do mundo?',
+    'Rio Nilo'
 ) 
 
 criaCartao(
-    'categoria', 
-    'pergunta',
-    'resposta'
+    'Geografia', 
+    'Em que continente fica o deserto do Saara?',
+    'Àfrica'
 ) 
 
 criaCartao(
-    'categoria', 
-    'pergunta',
-    'resposta'
+    'Conhecimentos gerais', 
+    'Qual é o idioma mais falado no mundo atualmente (como língua nativa)?',
+    'Mandarim'
 ) 
 
